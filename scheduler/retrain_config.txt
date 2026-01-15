@@ -1,0 +1,2 @@
+Retraining Schedule: Weekly
+Trigger: GitHub Actions cron job
